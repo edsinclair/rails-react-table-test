@@ -1,17 +1,17 @@
 # README
 
-####Requirements:
+#### Requirements:
 
 Ruby 2.6.4
 
-####Setup:
+#### Setup:
 
 ```
 bundle install
 yarn install
 ```
 
-####Boot:
+#### Boot:
 
 `rails server`
 
